@@ -3,7 +3,7 @@
 Welcome to the official GitHub Organization profile for **Krishiv Studios** — Founded by **Krishiv PB (`@Krylo-60`)**.
 
 [![Website](https://img.shields.io/badge/Website-krishivstudios.github.io-00f2ff?style=for-the-badge&logo=github)](https://krishivstudios.github.io)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865f2?style=for-the-badge&logo=discord)](https://discord.gg/2hSXQKHvvX)
+[![Discord](https://img.shields.io/badge/Discord-Krishiv%20Studios-5865f2?style=for-the-badge&logo=discord)](https://discord.gg/2hSXQKHvvX)
 [![Email](https://img.shields.io/badge/Email-Krylobloxyt%40gmail.com-ffb700?style=for-the-badge&logo=gmail)](mailto:Krylobloxyt@gmail.com)
 
 ---
@@ -23,7 +23,7 @@ Krishiv Studios is an elite software engineering organization dedicated to creat
 ### 🌐 Official Domains & Links
 - **Master Developer Hub**: [https://krishivstudios.github.io](https://krishivstudios.github.io)
 - **Founder Profile**: [@Krylo-60](https://github.com/Krylo-60)
-- **Discord Community**: [Join KryloSMP Discord](https://discord.gg/2hSXQKHvvX)
+- **Discord Community**: [Join Krishiv Studios Discord](https://discord.gg/2hSXQKHvvX)
 - **Contact Email**: [Krylobloxyt@gmail.com](mailto:Krylobloxyt@gmail.com)
 
 &copy; 2026 **Krishiv Studios**. All rights reserved.
