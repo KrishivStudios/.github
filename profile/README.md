@@ -31,11 +31,24 @@ Welcome to the official GitHub Organization profile for **Krishiv Studios** — 
 
 ---
 
-### 🎒 [InventoryMaster — Ultimate Inventory QoL](https://github.com/KrishivStudios/InventoryMaster)
+### 🎒 [InventoryMaster — Ultimate Inventory QoL](https://github.com/Krylo-60/InventoryMaster)
 *The ultimate 1-click inventory & chest management, quick stacking, auto-refill, and tool durability protection mod!*
 * **Features**: Smart category inventory/chest sorting (Combat, Tools, Armor, Minerals, Food, Building), 1-click Quick Stack (📥) into chests, auto-refill blocks/broken tools, auto-Totem off-hand restock, and critical low-durability warning chimes.
-* **Platforms**: Fabric, Quilt, NeoForge (`1.21` – `26.2`).
-* **Download**: Available on **Modrinth**, **CurseForge**, and **GitHub**.
+* **Platforms**: Fabric, Quilt, NeoForge, Forge, Paper, Spigot (`1.20` – `26.3`).
+* **Download**:
+  * 🟢 **[Download on Modrinth](https://modrinth.com/mod/inventorymaster)**
+  * 🟠 **[Download on CurseForge](https://www.curseforge.com/projects/1659668)**
+  * 🐙 **[View Source on GitHub](https://github.com/Krylo-60/InventoryMaster)**
+
+---
+
+### 🏗️ [BlueprintMaster — 3D Hologram Builder Suite](https://github.com/Krylo-60/BlueprintMaster)
+*Modern, lightweight 3D holographic structure blueprints, material shopping calculator, and starter architectural presets!*
+* **Features**: 3D translucent ghost projections, 1-click rotation & nudging, automated material shopping list (`M`), built-in starter blueprints (Cottage, Farm, Portal Shrine, Watchtower), and singleplayer easy-build assist with multiplayer fair-play security.
+* **Platforms**: Fabric, Quilt, NeoForge, Forge (`1.20` – `26.3`).
+* **Download**:
+  * 🟢 **[Download on Modrinth](https://modrinth.com/mod/blueprintmaster)**
+  * 🐙 **[View Source on GitHub](https://github.com/Krylo-60/BlueprintMaster)**
 
 ---
 
