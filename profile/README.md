@@ -1,6 +1,6 @@
 # 👑 Krishiv Studios
 
-Welcome to the official GitHub Organization profile for **Krishiv Studios** — Founded by **Krishiv PB (`@Krylo-60` / `Krylo_plays`)**.
+Welcome to the official GitHub Organization profile for **Krishiv Studios** — Founded by **Krylo (`@Krylo-60` / `Krylo_plays`)**.
 
 <div align="center">
   <p>
